@@ -1,4 +1,4 @@
-# Online Bookstore
+# Online Bookstore API
 
 This application is an online bookstore API built with Node.js, PostgreSQL, and Prisma ORM. It provides features such as user authentication, shopping cart management, and invoice generation.
 
